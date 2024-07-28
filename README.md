@@ -54,4 +54,7 @@ The primary goals of CloudBridge are to:
 
 CloudBridge demonstrates the feasibility of integrating multiple cloud environments securely and efficiently. By bridging Azure and AWS, organizations can enhance their collaborative capabilities without the complexities and costs associated with full cloud migration.
 
+### Detailed Documnet
+[Link for document](https://github.com/Shambhavikhanna09/CloudBridge/blob/4b1fb99e8a80b789e2795216ab662989be2489ee/MINORPROJECT2%20Multicloud%20endtermreport_removed.pdf)
+
 ---
