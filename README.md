@@ -47,6 +47,9 @@ The primary goals of CloudBridge are to:
     - Perform ping tests and display VM details.
 5. **Scalability Testing**: Conduct load testing to assess performance under increased traffic.
 
+### Setup
+![Image Alt](https://github.com/Shambhavikhanna09/CloudBridge/blob/3e9024383e51736e22638cde5bc1a1f1d9c252d5/project%20base.jpeg)
+
 ### Conclusion
 
 CloudBridge demonstrates the feasibility of integrating multiple cloud environments securely and efficiently. By bridging Azure and AWS, organizations can enhance their collaborative capabilities without the complexities and costs associated with full cloud migration.
